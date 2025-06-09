@@ -1,2 +1,4 @@
 # apna-college-done
-This is my first repositary
+This is my first repositary.
+Author-Siddhartha 
+
